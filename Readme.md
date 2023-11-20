@@ -4,11 +4,14 @@ Welcome! This repository is a comprehensive collection of cheat sheets for vario
 
 ## Contents
 
-- **Cloud Cheat Cheat**
+- **Cloud Cheat SCheat**
   - AWS
   - Azure
   - Docker
   - Git
+- **Control Cheat Sheet**
+  - Openssl
+  - Cisco
 - **Tool Cheat Cheat**
   - hping3
   - nmap
