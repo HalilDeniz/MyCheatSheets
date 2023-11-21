@@ -341,6 +341,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 If you have any questions, comments, or suggestions about **Docker Cheat sheet**, please feel free to contact me:
 
+- Linktr [halildeniz](https://linktr.ee/halildeniz)
+- DenizHalil [DenizHalil](https://denizhalil.com)
 - LinkedIn: [Halil Ibrahim Deniz](https://www.linkedin.com/in/halil-ibrahim-deniz/)
 - TryHackMe: [Halilovic](https://tryhackme.com/p/halilovic)
 - Instagram: [deniz.halil333](https://www.instagram.com/deniz.halil333/)
