@@ -1,15 +1,6 @@
 # **Understanding and Utilizing Microsoft Azure - A Comprehensive Cheat Sheet**
 
 <img src="../source/azure-cheat-sheet.png"><img>
-## **Introduction**
-In the rapidly evolving world of cloud computing, Microsoft Azure stands out as a prominent player, offering a plethora of services and solutions for businesses and developers. 
-This article aims to provide a concise yet comprehensive cheat sheet for Azure, helping both newcomers and seasoned professionals navigate its extensive offerings
-
-
-## **Why Azure?**
-Microsoft Azure is a top-tier cloud computing platform that provides an extensive range of services including computing, analytics, storage, and networking. 
-Its integration with Microsoft's software offerings and the commitment to enterprise-level security and compliance standards makes it a preferred choice for businesses of all sizes. 
-Azure’s scalability and flexibility enable companies to adapt to their changing needs, making it a robust solution in the cloud computing landscape.
 
 ## **Key Azure Services and Components**
 
@@ -259,6 +250,25 @@ Whether you're a developer, IT professional, or business leader, Azure has the t
 For more detailed and up-to-date information, the official Azure documentation is an invaluable resource.
 
 
+## Contact
 
+If you have any questions, comments, or suggestions about **Docker Cheat sheet**, please feel free to contact me:
+
+- LinkedIn: [Halil Ibrahim Deniz](https://www.linkedin.com/in/halil-ibrahim-deniz/)
+- TryHackMe: [Halilovic](https://tryhackme.com/p/halilovic)
+- Instagram: [deniz.halil333](https://www.instagram.com/deniz.halil333/)
+- YouTube: [Halil Deniz](https://www.youtube.com/c/HalilDeniz)
+- Email: halildeniz313@gmail.com
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## 💰 You can help me by Donating
+Thank you for considering supporting me! Your support enables me to dedicate more time and effort to creating useful **Cheat Sheet** and developing new projects. By contributing, you're not only helping me improve existing tools but also inspiring new ideas and innovations. Your support plays a vital role in the growth of this project and future endeavors. Together, let's continue building and learning. Thank you!"<br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/halildeniz) 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/denizhalil) 
+
+  
 
 
